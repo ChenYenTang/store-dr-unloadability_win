@@ -102,8 +102,10 @@ API server: http://127.0.0.1:8000
 Gradio UI: http://127.0.0.1:8000/ui
 
 ### 3. 測試工具
-python test_app/mock_feed.py
-可產生 input/latest.json 與 input/payload.json，模擬不同設備情境。
+uvicorn test_app.mock_company_api:app --host 0.0.0.0 --port 9000
+
+會持續產出API所需的3個GET資料；及1個POST
+
 
 ### 4. API 說明
 /api/devices/feed（測試/資料匯入）
