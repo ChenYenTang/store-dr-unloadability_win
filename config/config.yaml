@@ -1,0 +1,20 @@
+api:
+  auth:
+    api_key_header: X-API-Key
+    type: api_key
+  base_url: http://127.0.0.1:9000
+  endpoints:
+    list_devices_of_store: /stores/{store_id}/devices
+    list_stores: /stores
+    post_priority: /output/priority.json
+    realtime_of_device: /stores/{store_id}/devices/{device_id}/realtime
+  timeout_sec: 10
+  verify_ssl: true
+mapping:
+  defrost_status: Defrost_status
+  device_id: Device_ID
+  device_type: Device_type
+  power: Power
+  t_room: T_room
+  temp_current: Temp_current
+  timestamp: timestamp

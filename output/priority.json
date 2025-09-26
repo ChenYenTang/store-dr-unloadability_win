@@ -1,0 +1,881 @@
+{
+  "timestamp": "2025-09-25T21:10:08.032558",
+  "stores": {
+    "S001": [
+      {
+        "Device_ID": "S001-F002",
+        "Ranking": 1,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-R004",
+        "Ranking": 2,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-R002",
+        "Ranking": 3,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-R001",
+        "Ranking": 4,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-R003",
+        "Ranking": 5,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-O001",
+        "Ranking": 6,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-F001",
+        "Ranking": 7,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-R006",
+        "Ranking": 8,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-R007",
+        "Ranking": 9,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-O002",
+        "Ranking": 10,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-R005",
+        "Ranking": 11,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-F004",
+        "Ranking": 12,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-F005",
+        "Ranking": 13,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S001-F003",
+        "Ranking": 14,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      }
+    ],
+    "S006": [
+      {
+        "Device_ID": "S006-O001",
+        "Ranking": 15,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-O003",
+        "Ranking": 16,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-R003",
+        "Ranking": 17,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F001",
+        "Ranking": 18,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-R001",
+        "Ranking": 19,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-O004",
+        "Ranking": 20,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-R002",
+        "Ranking": 21,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-R004",
+        "Ranking": 22,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-O002",
+        "Ranking": 23,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F002",
+        "Ranking": 24,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-R005",
+        "Ranking": 25,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F006",
+        "Ranking": 26,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F007",
+        "Ranking": 27,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F008",
+        "Ranking": 28,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F011",
+        "Ranking": 29,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F004",
+        "Ranking": 30,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F005",
+        "Ranking": 31,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F003",
+        "Ranking": 32,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F009",
+        "Ranking": 33,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S006-F010",
+        "Ranking": 34,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      }
+    ],
+    "S008": [
+      {
+        "Device_ID": "S008-R002",
+        "Ranking": 35,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-R001",
+        "Ranking": 36,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-O004",
+        "Ranking": 37,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-O001",
+        "Ranking": 38,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-O002",
+        "Ranking": 39,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-F001",
+        "Ranking": 40,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-O003",
+        "Ranking": 41,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-O005",
+        "Ranking": 42,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-F005",
+        "Ranking": 43,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-F002",
+        "Ranking": 44,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-F004",
+        "Ranking": 45,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-F003",
+        "Ranking": 46,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-R004",
+        "Ranking": 47,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-R003",
+        "Ranking": 48,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S008-R005",
+        "Ranking": 49,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      }
+    ],
+    "S019": [
+      {
+        "Device_ID": "S019-F002",
+        "Ranking": 50,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-F003",
+        "Ranking": 51,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-F004",
+        "Ranking": 52,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-F001",
+        "Ranking": 53,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-R001",
+        "Ranking": 54,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-O003",
+        "Ranking": 55,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-F006",
+        "Ranking": 56,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-O001",
+        "Ranking": 57,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-R002",
+        "Ranking": 58,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-O002",
+        "Ranking": 59,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-F005",
+        "Ranking": 60,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-O004",
+        "Ranking": 61,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S019-O005",
+        "Ranking": 62,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      }
+    ],
+    "S035": [
+      {
+        "Device_ID": "S035-O001",
+        "Ranking": 63,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-R001",
+        "Ranking": 64,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-R002",
+        "Ranking": 65,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-R003",
+        "Ranking": 66,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O004",
+        "Ranking": 67,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O009",
+        "Ranking": 68,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O003",
+        "Ranking": 69,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O008",
+        "Ranking": 70,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O006",
+        "Ranking": 71,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O002",
+        "Ranking": 72,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O011",
+        "Ranking": 73,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O005",
+        "Ranking": 74,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O007",
+        "Ranking": 75,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-O010",
+        "Ranking": 76,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-F001",
+        "Ranking": 77,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-F002",
+        "Ranking": 78,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-R005",
+        "Ranking": 79,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-F004",
+        "Ranking": 80,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-F005",
+        "Ranking": 81,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-R004",
+        "Ranking": 82,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S035-F003",
+        "Ranking": 83,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      }
+    ],
+    "S042": [
+      {
+        "Device_ID": "S042-F001",
+        "Ranking": 84,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-O001",
+        "Ranking": 85,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-R001",
+        "Ranking": 86,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-F002",
+        "Ranking": 87,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-F003",
+        "Ranking": 88,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-F007",
+        "Ranking": 89,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-F010",
+        "Ranking": 90,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-F006",
+        "Ranking": 91,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-F008",
+        "Ranking": 92,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-F005",
+        "Ranking": 93,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-F009",
+        "Ranking": 94,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-F004",
+        "Ranking": 95,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      },
+      {
+        "Device_ID": "S042-R002",
+        "Ranking": 96,
+        "Priority_score": 8.33,
+        "Unloadable_time_min": 7,
+        "Unloadable_energy_kWh": 0.0,
+        "Time_since_defrost": 0.0,
+        "Exclude_flag": 0
+      }
+    ]
+  }
+}

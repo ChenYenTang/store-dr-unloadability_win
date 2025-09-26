@@ -1,0 +1,49 @@
+{
+  "devices": [
+    {
+      "Device_ID": "F001",
+      "Ranking": 1,
+      "Priority_score": 0.6,
+      "Unloadable_time_min": 11,
+      "Unloadable_energy_kWh": 0.5,
+      "Time_since_defrost": 5,
+      "Exclude_flag": 0
+    },
+    {
+      "Device_ID": "F002",
+      "Ranking": 2,
+      "Priority_score": 0.7,
+      "Unloadable_time_min": 12,
+      "Unloadable_energy_kWh": 0.7,
+      "Time_since_defrost": 10,
+      "Exclude_flag": 0
+    },
+    {
+      "Device_ID": "F003",
+      "Ranking": 3,
+      "Priority_score": 0.8,
+      "Unloadable_time_min": 13,
+      "Unloadable_energy_kWh": 0.9,
+      "Time_since_defrost": 15,
+      "Exclude_flag": 0
+    },
+    {
+      "Device_ID": "R001",
+      "Ranking": 4,
+      "Priority_score": 0.9,
+      "Unloadable_time_min": 14,
+      "Unloadable_energy_kWh": 1.1,
+      "Time_since_defrost": 20,
+      "Exclude_flag": 0
+    },
+    {
+      "Device_ID": "R002",
+      "Ranking": 5,
+      "Priority_score": 1.0,
+      "Unloadable_time_min": 15,
+      "Unloadable_energy_kWh": 1.3,
+      "Time_since_defrost": 25,
+      "Exclude_flag": 0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "devices": [
+    {
+      "Device_ID": "F001",
+      "Device_type": "freezer",
+      "Device_size": "大",
+      "Risk_penalty": "高",
+      "Shared_compressor_flag": 1,
+      "timestamp": "2025-08-20T11:50:22",
+      "Business_hours_flag": 1,
+      "Temp_current": -18.62955772749356,
+      "Power": 0.89,
+      "T_room": 25.1,
+      "Defrost_status": 1
+    },
+    {
+      "Device_ID": "F002",
+      "Device_type": "freezer",
+      "Device_size": "中",
+      "Risk_penalty": "中",
+      "Shared_compressor_flag": 1,
+      "timestamp": "2025-08-20T11:50:22",
+      "Business_hours_flag": 1,
+      "Temp_current": -18.228779605128626,
+      "Power": 1.28,
+      "T_room": 25.1,
+      "Defrost_status": 0
+    },
+    {
+      "Device_ID": "F003",
+      "Device_type": "freezer",
+      "Device_size": "小",
+      "Risk_penalty": "低",
+      "Shared_compressor_flag": 1,
+      "timestamp": "2025-08-20T11:50:22",
+      "Business_hours_flag": 1,
+      "Temp_current": -19.827218577868152,
+      "Power": 0.75,
+      "T_room": 26.3,
+      "Defrost_status": 0
+    },
+    {
+      "Device_ID": "R001",
+      "Device_type": "refrigerator",
+      "Device_size": "大",
+      "Risk_penalty": "高",
+      "Shared_compressor_flag": 1,
+      "timestamp": "2025-08-20T11:50:22",
+      "Business_hours_flag": 1,
+      "Temp_current": 5.7182947094826195,
+      "Power": 1.02,
+      "T_room": 27.9,
+      "Defrost_status": 0
+    },
+    {
+      "Device_ID": "R002",
+      "Device_type": "refrigerator",
+      "Device_size": "中",
+      "Risk_penalty": "中",
+      "Shared_compressor_flag": 1,
+      "timestamp": "2025-08-20T11:50:22",
+      "Business_hours_flag": 1,
+      "Temp_current": 2.8837656399713545,
+      "Power": 1.43,
+      "T_room": 26.4,
+      "Defrost_status": 0
+    }
+  ]
+}

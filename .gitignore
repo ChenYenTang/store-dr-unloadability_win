@@ -1,0 +1,11 @@
+/.venv-SDRU
+/test_app
+*/__pycache__
+* copy.*
+# Build results
+/input/latest
+/input/history
+/output/*.csv
+/output/*.json
+weighted_models/
+*_forsimulate.py

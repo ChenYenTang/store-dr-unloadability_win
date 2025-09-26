@@ -1,0 +1,26 @@
+{
+  "store_id": "S001",
+  "timestamp": "2025-08-14T16:12:06+00:00",
+  "business_hours_flag": 1,
+  "cabinets": [
+    {
+      "cabinet_id": "R-01",
+      "type": "refrigerator",
+      "air_supply_c": 2.5,
+      "air_return_c": 4.2,
+      "prod_t_mw_chill_c": 5.5,
+      "prod_t_milk_c": 4.8,
+      "defrost_status": 0,
+      "time_since_defrost_min": 200
+    },
+    {
+      "cabinet_id": "F-01",
+      "type": "freezer",
+      "air_supply_c": -20.0,
+      "air_return_c": -18.0,
+      "prod_t_mw_freeze_c": -16.5,
+      "defrost_status": 1,
+      "time_since_defrost_min": 3
+    }
+  ]
+}
